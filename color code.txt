@@ -1,0 +1,6 @@
+black:
+#181B20
+blue:
+#7489A6
+light blue:
+#00F6FF
