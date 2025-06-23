@@ -22,8 +22,7 @@ Python (Pandas) – Synthetic data generation
 DAX – Measures and KPIs
 Data Visualization tools – Donut charts, bar charts, KPIs, and slicers
 
-![My First Dashboard](./overview.png)
-![Employee Analysis](./employee.png)
+
 
 
 
